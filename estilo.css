@@ -8,10 +8,21 @@
     margin: auto;
     position: relative;
     background-image: url("imagenes/fondo_principal.jpeg");
+
 }
 #encabezado{               /*contenedor de foto*/
     border: 1px solid green; 
     width: 250px;    
     height: 700px;
     /*background-image: ;*/
+}
+#cuerpo{
+    border: 1px solid black;
+    width: 2,13cm;
+    height: 500px;
+    position: relative;
+    top: 187px;
+}
+#contacto{
+
 }
